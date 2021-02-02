@@ -6,11 +6,11 @@ This is the online course for MS HPC IA program. Major material is from the last
  * [practical session 1 "Introduction to convNet"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/L1_Introduction_CNN_MNIST.ipynb)
  
 ## Session 2: Course on Semantic Segmentation, object detection, instance segmentation
- * [Slides](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/session2_detection.pdf)
+ * [Semantic Segmentation, object detection, instance segmentation](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/session2_detection.pdf)
  * [practical session 2 "Object detection and tracking"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/L2_Object_detection_and_tracking.ipynb)
  
 ## Session 3: Course on Recurrent Neural Networks (RNN)
- * [Slides](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/session3_RNN.pdf)
+ * [Recurrent Neural Networks](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/session3_RNN.pdf)
  * [practical session 3 "Language translation"]()
  
 ## Session 4:  Course on Deep reinforcement learning + choice and beginning of mini-project
@@ -18,5 +18,5 @@ This is the online course for MS HPC IA program. Major material is from the last
  * [practical seesion 4 "Gaming"]()
 
 ## Session 5: Course on Unsupervised Generative Deep-Learning 
- * [course on Unsupervised Generative Deep-Learning]() 
+ * [Unsupervised Generative Deep-Learning]() 
  * [MINI-PROJECTS instructions and proposed topics](https://github.com/fabienMoutarde/DLcourse/blob/master/mini-projets_HPC-IA.html)
