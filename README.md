@@ -1,5 +1,5 @@
 # DL_course_MS_HPC_IA
-This is the online course for MS HPC IA program
+This is the online course for MS HPC IA program. Major material is from the last lecturer [Fabien Moutarde](https://github.com/fabienMoutarde/DLcourse)
 
 ## Session 1: Course on the deep-Learning world of Convolutional Neural Networks
  * [DeepLearning-convNets course slides](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/session1_convnet.pdf)
