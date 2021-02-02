@@ -1,7 +1,7 @@
 # DL_course_MS_HPC_IA
 This is the online course for MS HPC IA program
 
-## Session 1: Course on Into the deep-Learning world of Convolutional Neural Networks
+## Session 1: Course on the deep-Learning world of Convolutional Neural Networks
  * [DeepLearning-convNets course slides](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/session1_convnet.pdf)
  * [practical session 1 "Introduction to convNet"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/L1_Introduction_CNN_MNIST.ipynb)
  
