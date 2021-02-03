@@ -13,10 +13,10 @@ This is the online course for MS HPC IA program. Major material is from the last
  * [Recurrent Neural Networks](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/session3_RNN.pdf)
  * [practical session 3 "Language translation"]()
  
-## Session 4:  Course on Deep reinforcement learning + choice and beginning of mini-project
+## Session 4:  Course on Deep reinforcement learning 
  * slides of [deep reinforecement learning]()
  * [practical seesion 4 "Gaming"]()
 
-## Session 5: Course on Unsupervised Generative Deep-Learning 
+## Session 5: Course on Unsupervised Generative Deep-Learning + choice and beginning of mini-project
  * [Unsupervised Generative Deep-Learning]() 
  * [MINI-PROJECTS instructions and proposed topics](https://github.com/fabienMoutarde/DLcourse/blob/master/mini-projets_HPC-IA.html)
