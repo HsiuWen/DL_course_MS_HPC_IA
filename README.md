@@ -14,7 +14,7 @@ This is the online course for MS HPC IA program. Major material is from the last
  * [practical session 3 "Language translation"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/Lb3_RNN_LSTM_language.ipynb)
  
 ## Session 4:  Course on Deep reinforcement learning 
- * slides of [deep reinforecement learning]()
+ * slides of [deep reinforecement learning](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/session4_RL.pdf)
  * [practical seesion 4 "Gaming"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/Lb4_reinforcement_learning_Q.ipynb)
 
 ## Session 5: Course on Unsupervised Generative Deep-Learning + choice and beginning of mini-project
