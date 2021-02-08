@@ -18,5 +18,5 @@ This is the online course for MS HPC IA program. Major material is from the last
  * [practical seesion 4 "Gaming"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/Lb4_reinforcement_learning_Q.ipynb)
 
 ## Session 5: Course on Unsupervised Generative Deep-Learning + choice and beginning of mini-project
- * [Unsupervised Generative Deep-Learning]() 
- * [MINI-PROJECTS instructions and proposed topics](https://github.com/fabienMoutarde/DLcourse/blob/master/mini-projets_HPC-IA.html)
+ * [Unsupervised Generative Deep-Learning](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/session5_deep_generative_model.pdf) 
+ * [MINI-PROJECTS instructions and proposed topics](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/Mini_project_MS_HPC_IA.ipynb)
