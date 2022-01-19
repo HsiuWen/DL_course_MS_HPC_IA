@@ -3,11 +3,11 @@ This is the online course for MS HPC IA program. Major material is from the last
 
 ## Session 1: Course on the neural network 
  * [Neural Network course slides](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/session2_nn.pdf)
- * [practical session 1 "Introduction to NN"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/lab 2022/intro_NN_public.ipynb)
+ * [practical session 1 "Introduction to NN"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/lab2022/intro_NN_public.ipynb)
  
 ## Session 2: Course on the deep-Learning world of Convolutional Neural Networks
  * [DeepLearning-convNets course slides](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/session2_convnet.pdf)
- * [practical session 2 "Introduction to CNN"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/lab 2022/intro_CNN_public.ipynb)
+ * [practical session 2 "Introduction to CNN"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/lab2022/intro_CNN_public.ipynb)
  * [Optional practical session 1 "Introduction to convNet"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/L1_Introduction_CNN_MNIST.ipynb)
  
 ## Session 3: Course on Semantic Segmentation, object detection, instance segmentation
