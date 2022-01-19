@@ -2,7 +2,7 @@
 This is the online course for MS HPC IA program. Major material is from the last lecturer [Fabien Moutarde](https://github.com/fabienMoutarde/DLcourse)
 
 ## Session 1: Course on the neural network 
- * [Neural Network course slides](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/session2_nn.pdf)
+ * [Neural Network course slides](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/session1_nn.pdf)
  * [practical session 1 "Introduction to NN"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/lab2022/intro_NN_public.ipynb)
  
 ## Session 2: Course on the deep-Learning world of Convolutional Neural Networks
