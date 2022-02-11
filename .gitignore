@@ -1,0 +1,6 @@
+lab2022/data/mnist/mnist.pkl.gz
+=2.0.1
+cifar-10-batches-py/
+lightning_logs/
+.ipynb_checkpoints/
+temp/
