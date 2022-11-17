@@ -25,3 +25,19 @@ This is the online course for MS HPC IA program. Major material is from the last
 ## Session 6: Course on Unsupervised Generative Deep-Learning + choice and beginning of mini-project
  * [Unsupervised Generative Deep-Learning](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session6_deep_generative_model.pdf) 
  * [MINI-PROJECTS instructions and proposed topics](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/Mini_project_MS_HPC_IA.ipynb)
+
+# Ways to run practical lessons:
+1. Google colab
+2. Local computer:
+## Installation & prerequests
+ * Create your virtual environment and install prerequests
+```
+conda create -n HPC_IA_env python=3.9
+conda activate HPC_IA_env
+pip install -r requirements.txt
+```
+ * Add HPC_IA_env to jupyter notebook as kernel
+```
+ipython kernel install --name "HPC_IA_env" --user
+```
+#
