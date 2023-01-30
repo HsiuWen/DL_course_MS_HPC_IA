@@ -1,6 +1,16 @@
 # DL_course_MS_HPC_IA
-This is the online course for MS HPC IA program. Major material is from the last lecturer [Fabien Moutarde](https://github.com/fabienMoutarde/DLcourse)
+This is the online course for MS HPC IA program. 
 
+## Installation
+* clone this repo, and we will call the directoy that you cloned as ${DL_course}
+* Install dependencies, We use python 3.7 and pytorch >=1.7.0
+```
+conda create -n DL_course_env python=3.7 jupyter
+conda activate DL_course_env
+conda install pytorch==1.7.0 torchvision cudatoolkit=10.2 -c pytorch
+cd ${DL_course}
+pip install -r requirements.txt
+```
 ## Session 1: Course on the neural network 
  * [Neural Network course slides](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session1_nn.pdf)
  * [practical session 1 "Introduction to NN"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/lab2022/intro_NN_public.ipynb)
