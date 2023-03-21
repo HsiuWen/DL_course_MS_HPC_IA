@@ -1,6 +1,11 @@
 lab2022/data/mnist/mnist.pkl.gz
+lab2023/data
+lab2023/qtables
+MiniProj_MS-HPC-IA/semantic_segmentation_FCN_DeepLab_pyTorch_fichiers/Segmentation-dataset
+MiniProj_MS-HPC-IA/ronin_data_simple
 =2.0.1
 cifar-10-batches-py/
 lightning_logs/
 .ipynb_checkpoints/
 temp/
+internal/
