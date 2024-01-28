@@ -24,12 +24,12 @@ pip install -r requirements.txt
  
 ## Session 2: Course on the deep-Learning world of Convolutional Neural Networks
  * [DeepLearning-convNets course slides](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session2_convnet.pdf)
- * [practical session 2 "Introduction to CNN"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/lab2023/intro_CNN_public.ipynb)
+ * [practical session 2 "Introduction to CNN"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/lab2023/Lab2_CNN_oublic.ipynb)
  * [Optional practical session 2b "Introduction to convNet"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/L1_Introduction_CNN_MNIST.ipynb)
  
 ## Session 3: Course on Semantic Segmentation, object detection, instance segmentation
  * [Semantic Segmentation, object detection, instance segmentation](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session3_detection.pdf)
- * [practical session 3 "Object detection and tracking"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/Lab3_Object_detection_and_tracking.ipynb)
+ * [practical session 3 "Object detection and tracking"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/Lab3 mask_r_cnn and YOLO.ipynb)
  
 ## Session 4: Course on Recurrent Neural Networks (RNN)
  * [Recurrent Neural Networks](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session4_RNN.pdf)
