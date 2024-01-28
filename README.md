@@ -33,8 +33,8 @@ pip install -r requirements.txt
  
 ## Session 4: Course on Recurrent Neural Networks (RNN)
  * [Recurrent Neural Networks](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session4_RNN.pdf)
- * [practical session 4 "Language translation"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/Lab4_RNN_LSTM_language.ipynb)
- 
+ * [practical session 4 "Language translation"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/Lab4_RNN_LSTM_language%20public.ipynb)
+
 ## Session 5:  Course on Deep reinforcement learning 
  * [deep reinforecement learning](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session5_RL.pdf)
  * [practical seesion 5 "Gaming"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/Lab5_reinforcement_learning_Q.ipynb)
