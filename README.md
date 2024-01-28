@@ -29,7 +29,7 @@ pip install -r requirements.txt
  
 ## Session 3: Course on Semantic Segmentation, object detection, instance segmentation
  * [Semantic Segmentation, object detection, instance segmentation](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session3_detection.pdf)
- * [practical session 3 "Object detection and tracking"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/Lab3_mask_r_cnn.ipynb)
+ * [practical session 3 "Object detection and tracking"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/Lab3_mask_r_cnn.ipynb
  
 ## Session 4: Course on Recurrent Neural Networks (RNN)
  * [Recurrent Neural Networks](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session4_RNN.pdf)
