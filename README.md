@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## Session 5:  Course on Deep reinforcement learning 
  * [deep reinforecement learning](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session5_RL.pdf)
- * [practical seesion 5 "Gaming"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/Lab5_reinforcement_learning_Q.ipynb)
+ * [practical seesion 5 "Gaming"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/lab2023/Lab5_reinforcement_learning_Q.ipynb)
 
 ## Session 6: Course on advanced DL + choice and beginning of mini-project
  * [Unsupervised Generative Deep-Learning](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session6_deep_generative_model.pdf) 
