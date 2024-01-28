@@ -2,6 +2,13 @@
 This is the online course for MS HPC IA program. 
 
 ## Installation
+
+Anaconda: if you don't have it to create virtual environment, use the following code if your system is WSL
+```
+wget https://repo.continuum.io/archive/Anaconda3-2023.09-0-Linux-x86_64.sh
+bash Anaconda3-2023.09-0-Linux-x86_64.sh
+```
+
 * clone this repo, and we will call the directoy that you cloned as ${DL_course}
 * Install dependencies, We use python 3.7 and pytorch >=1.7.0
 ```
