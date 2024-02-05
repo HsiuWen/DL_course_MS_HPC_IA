@@ -3,10 +3,12 @@ This is the online course for MS HPC IA program.
 
 ## Installation
 
-Anaconda: if you don't have it to create virtual environment, use the following code if your system is WSL
+* Virtual environment: if you don't have it to create virtual environment, check this site for installation
+[Miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
+
 ```
-wget https://repo.continuum.io/archive/Anaconda3-2023.09-0-Linux-x86_64.sh
-bash Anaconda3-2023.09-0-Linux-x86_64.sh
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
 ```
 
 * clone this repo, and we will call the directoy that you cloned as ${DL_course}
