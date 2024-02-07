@@ -20,6 +20,13 @@ conda install pytorch==1.7.0 torchvision cudatoolkit=10.2 -c pytorch
 cd ${DL_course}
 pip install -r requirements.txt
 ```
+
+* Add your environment to jupyter notebook
+```
+conda install -c conda-forge ipykernel
+python -m ipykernel install --user --name=DL_course_env
+```
+
 ## Session 1: Course on the neural network 
  * [Neural Network course slides](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session1_nn.pdf)
  * [practical session 1 "Introduction to NN"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/lab2023/intro_NN_public.ipynb)
