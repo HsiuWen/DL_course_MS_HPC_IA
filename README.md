@@ -41,11 +41,21 @@ python -m ipykernel install --user --name=DL_course_env
 
  ## Session 4: Course on Semantic Segmentation, object detection, instance segmentation
  * [Semantic Segmentation, object detection, instance segmentation](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session3_detection.pdf)
+If you want to run this lab on your local environment, you need to create a new virtual enviroment and install these packages
+ ```
+conda create -n captioning_env
+conda activate captioning_env
+cd lab4
+pip install -r requirements.txt
+```
+Possible error solution: 
+(1)ModuleNotFoundError: No module named 'setuptools.extern.six'
+update numpy version to: pip install numpy==2.0.0
  * [practical session 4 "RNN_Captioning"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/lab2025/lab4/Lab4_RNN_LSTM_language%20public.ipynb)
 
 ## Session 5:  Course on Deep reinforcement learning 
  * [deep reinforecement learning](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session5_RL.pdf)
- * [practical seesion 5 "Gaming"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/lab2025/Lab5_reinforcement_learning_Q.ipynb)
+ * [practical session 5 "Gaming"](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/lab2025/Lab5_reinforcement_learning_Q.ipynb)
 
 ## Session 6: Course on advanced DL + choice and beginning of mini-project
  * [Unsupervised Generative Deep-Learning](https://github.com/HsiuWen/DL_course_MS_HPC_IA/blob/main/slides/session6_deep_generative_model.pdf) 
