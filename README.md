@@ -12,11 +12,11 @@ bash Miniconda3-latest-Linux-x86_64.sh
 ```
 
 * clone this repo, and we will call the directoy that you cloned as ${DL_course}
-* Install dependencies, We use python 3.7 and pytorch >=1.7.0
+* Install dependencies, We use python 3.13 and pytorch >=2.9.0
 ```
-conda create -n DL_course_env python=3.7 jupyter
+conda create -n DL_course_env python=3.13
 conda activate DL_course_env
-conda install pytorch==1.7.0 torchvision cudatoolkit=10.2 -c pytorch
+conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
 cd ${DL_course}
 pip install -r requirements.txt
 ```
