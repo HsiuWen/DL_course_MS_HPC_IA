@@ -1,6 +1,9 @@
 jupyter
+torch
+torchvision
 numpy
 matplotlib
 keras
 wandb
 gym
+
